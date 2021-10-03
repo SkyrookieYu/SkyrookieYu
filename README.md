@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkyrookieYu
 - 👀 I’m interested in computer vision, data compression, and Traditional Chinese Medicine.
-- 🌱 I’m currently working in Python & C++(both by use of Qt).
-- 💞️ I’m looking to collaborate on Audiobook Editor and TCM Pulsometer.
+- 🌱 I’m currently working in Python & C++(often both by use of Qt).
+- 💞️ I’m looking to collaborate on Audiobook Editor.
 - 📫 Please contact me by email on GitHub. 
 
 <!---
