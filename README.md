@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SkyrookieYu
+- 👋 Hi, I’m SkyrookieYu
 - 👀 I’m interested in computer vision, data compression, and Traditional Chinese Medicine.
 - 🌱 I’m currently working in Python & C++(often both by use of Qt).
 - 📫 Please contact me by email on GitHub. 
